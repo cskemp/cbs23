@@ -1,0 +1,1301 @@
+assignment,duedate,timestamp,student_id,last_name,first_name,email,raw_score,late_submission_penalty,score,max_score
+01_exercise_introduction,,2021-07-27 03:35:43.634457,jupyter-ameliaha,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,2021-07-27 10:10:01.108821,jupyter-hayeso,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-03 03:23:30.691083,jupyter-jfodor,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-27 05:20:55.904766,jupyter-jsattenborou,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-27 03:51:54.218849,jupyter-lgsully,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,2021-07-27 05:20:43.065415,jupyter-neverett,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-28 05:54:06.419641,jupyter-rlockett,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-31 11:22:20.213618,jupyter-skyriakopoul,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-28 09:54:51.942661,jupyter-stwilliams,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-27 12:31:17.106100,jupyter-yimein,,,,6.0,0.0,6.0,10.0
+01_exercise_introduction,,2021-07-28 15:21:21.095713,jupyter-thomashn,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-09 06:36:12.048630,jupyter-zhilongl,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-07-29 06:27:33.378758,jupyter-siaumuns,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-07-29 10:06:58.490091,jupyter-ebridgeman,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-07-30 07:30:56.910184,jupyter-gscarce,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-07-29 06:21:57.008104,jupyter-wezhong,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-07-30 02:24:22.258711,jupyter-xueyuanl,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-02 07:39:34.950669,jupyter-grachen,,,,4.0,0.0,4.0,10.0
+01_exercise_introduction,,2021-08-01 13:59:00.110290,jupyter-katherinekha,,,,2.0,0.0,2.0,10.0
+01_exercise_introduction,,2021-08-02 00:14:41.129443,jupyter-rccapp,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-07 05:33:26.965191,jupyter-rmaritiu,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-01 01:59:13.713270,jupyter-rsseb,,,,6.0,0.0,6.0,10.0
+01_exercise_introduction,,2021-08-01 23:17:53.294028,jupyter-rvvidyasagar,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-02 08:58:46.047687,jupyter-vabdulnour,,,,5.0,0.0,5.0,10.0
+01_exercise_introduction,,2021-08-01 08:19:34.643152,jupyter-xinyingy1,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-01 04:26:10.007138,jupyter-yparamullage,,,,4.0,0.0,4.0,10.0
+01_exercise_introduction,,2021-08-01 15:57:51.441725,jupyter-ziqiazhang,,,,4.0,0.0,4.0,10.0
+01_exercise_introduction,,2021-08-02 23:56:34.278705,jupyter-zz_test_student,,,,2.0,0.0,2.0,10.0
+01_exercise_introduction,,2021-08-03 01:08:18.483383,jupyter-etheresa,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-03 03:13:20.833793,jupyter-gecarroll,,,,7.0,0.0,7.0,10.0
+01_exercise_introduction,,2021-08-05 13:48:44.664400,jupyter-tianye,,,,5.0,0.0,5.0,10.0
+01_exercise_introduction,,2021-08-04 16:16:03.203522,jupyter-aurelialivia,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-08-04 07:44:46.155892,jupyter-caelanm,,,,5.0,0.0,5.0,10.0
+01_exercise_introduction,,2021-08-04 11:11:53.890927,jupyter-chongk3,,,,7.0,0.0,7.0,10.0
+01_exercise_introduction,,2021-08-04 23:26:15.057940,jupyter-kokabe,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-08-04 04:07:23.315990,jupyter-ssugiauwto,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,2021-08-03 10:05:33.393818,jupyter-nathanl2,,,,1.0,0.0,1.0,10.0
+01_exercise_introduction,,2021-08-04 00:12:04.055097,jupyter-yuajiang,,,,5.0,0.0,5.0,10.0
+01_exercise_introduction,,2021-08-03 07:06:05.840635,jupyter-yunos,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-05 05:49:40.950307,jupyter-aaron1,,,,8.0,0.0,8.0,10.0
+01_exercise_introduction,,2021-08-05 15:21:18.735212,jupyter-bingqingl,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-09 04:46:07.749457,jupyter-akluga,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-08 05:55:29.552477,jupyter-ceabry,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,2021-08-09 07:35:22.172077,jupyter-mfryer,,,,5.0,0.0,5.0,10.0
+01_exercise_introduction,,2021-08-06 07:54:10.656686,jupyter-yingting1,,,,9.0,0.0,9.0,10.0
+01_exercise_introduction,,2021-08-08 05:40:20.493298,jupyter-zhenning,,,,3.0,0.0,3.0,10.0
+01_exercise_introduction,,,jupyter-jlaoit,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-dcchau,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-hunsh,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-jarakane,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-jcyang,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-riliangg,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-smythb,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-wlla,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-xinrus1,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-zchalmers,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-zebinl,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-yjjin1,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-iahossain,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-junyangl2,,,,0.0,0.0,0.0,10.0
+01_exercise_introduction,,,jupyter-bzamani,,,,0.0,0.0,0.0,10.0
+02_tutorial_bayesnets,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-07 00:28:51.025972,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-05 02:52:00.574047,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-04 11:21:29.591947,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-09 06:31:19.321675,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-06 07:10:46.398926,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-05 08:14:29.588118,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-08 06:43:38.451082,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,2021-08-05 03:28:24.491097,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+02_tutorial_bayesnets,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+03_tutorial_causal,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+04_tutorial_categorization,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+05_connectionism,,,jupyter-ameliaha,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-hayeso,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-jfodor,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-lgsully,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-neverett,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-rlockett,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-stwilliams,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yimein,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-thomashn,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-zhilongl,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-siaumuns,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-gscarce,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-wezhong,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-grachen,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-katherinekha,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-rccapp,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-rsseb,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yparamullage,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-etheresa,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-gecarroll,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-tianye,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-caelanm,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-chongk3,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-kokabe,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-nathanl2,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yuajiang,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yunos,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-aaron1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-bingqingl,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-akluga,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-ceabry,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-mfryer,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yingting1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-zhenning,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-jlaoit,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-dcchau,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-hunsh,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-jarakane,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-jcyang,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-riliangg,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-smythb,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-wlla,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-xinrus1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-zchalmers,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-zebinl,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-yjjin1,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-iahossain,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-junyangl2,,,,0.0,0.0,0.0,5.0
+05_connectionism,,,jupyter-bzamani,,,,0.0,0.0,0.0,5.0
+05_tutorial_connectionism,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+05_tutorial_connectionism,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+06_assessment_connectionism,,,jupyter-ameliaha,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-hayeso,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-jfodor,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-lgsully,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-neverett,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-rlockett,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-stwilliams,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-yimein,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-thomashn,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,2021-09-02 10:25:17.362854,jupyter-zhilongl,,,,4.0,0.0,4.0,10.0
+06_assessment_connectionism,,,jupyter-siaumuns,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-gscarce,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-wezhong,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-grachen,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-katherinekha,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-rccapp,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-rsseb,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-yparamullage,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-etheresa,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-gecarroll,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-tianye,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-caelanm,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-chongk3,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-kokabe,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-nathanl2,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-yuajiang,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-yunos,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-aaron1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-bingqingl,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-akluga,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,2021-09-03 01:52:02.164569,jupyter-ceabry,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-mfryer,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,2021-09-09 08:14:00.828777,jupyter-yingting1,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism,,,jupyter-zhenning,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-jlaoit,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-dcchau,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-hunsh,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-jarakane,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-jcyang,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-riliangg,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-smythb,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-wlla,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-xinrus1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-zchalmers,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-zebinl,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-yjjin1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-iahossain,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-junyangl2,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism,,,jupyter-bzamani,,,,0.0,0.0,0.0,10.0
+06_tutorial_connectionism,,,jupyter-ameliaha,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-hayeso,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-jfodor,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-lgsully,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-neverett,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-rlockett,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-stwilliams,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yimein,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-thomashn,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-zhilongl,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-siaumuns,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-gscarce,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-wezhong,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-grachen,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-katherinekha,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-rccapp,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-rsseb,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yparamullage,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-etheresa,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-gecarroll,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-tianye,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-caelanm,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-chongk3,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-kokabe,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-nathanl2,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yuajiang,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yunos,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-aaron1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-bingqingl,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-akluga,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-ceabry,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-mfryer,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yingting1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-zhenning,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-jlaoit,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-dcchau,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-hunsh,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-jarakane,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-jcyang,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-riliangg,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-smythb,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-wlla,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-xinrus1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-zchalmers,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-zebinl,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-yjjin1,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-iahossain,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-junyangl2,,,,0.0,0.0,0.0,4.0
+06_tutorial_connectionism,,,jupyter-bzamani,,,,0.0,0.0,0.0,4.0
+07_tutorial_episodic_memory,,,jupyter-ameliaha,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-hayeso,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-jfodor,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-lgsully,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-neverett,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-rlockett,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-stwilliams,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yimein,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-thomashn,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-zhilongl,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-siaumuns,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-gscarce,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-wezhong,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-grachen,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-katherinekha,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-rccapp,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-rsseb,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yparamullage,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-etheresa,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-gecarroll,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-tianye,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-caelanm,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-chongk3,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-kokabe,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-nathanl2,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yuajiang,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yunos,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-aaron1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-bingqingl,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-akluga,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-ceabry,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-mfryer,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yingting1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-zhenning,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-jlaoit,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-dcchau,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-hunsh,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-jarakane,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-jcyang,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-riliangg,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-smythb,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-wlla,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-xinrus1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-zchalmers,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-zebinl,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-yjjin1,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-iahossain,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-junyangl2,,,,0.0,0.0,0.0,13.0
+07_tutorial_episodic_memory,,,jupyter-bzamani,,,,0.0,0.0,0.0,13.0
+08_tutorial_semantic_memory,,,jupyter-ameliaha,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-hayeso,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-jfodor,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-lgsully,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-neverett,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-rlockett,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-stwilliams,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yimein,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-thomashn,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-zhilongl,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-siaumuns,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-gscarce,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-wezhong,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-grachen,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-katherinekha,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-rccapp,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-rsseb,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yparamullage,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-etheresa,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-gecarroll,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-tianye,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-caelanm,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-chongk3,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-kokabe,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-nathanl2,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yuajiang,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yunos,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-aaron1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-bingqingl,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-akluga,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-ceabry,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-mfryer,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yingting1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-zhenning,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-jlaoit,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-dcchau,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-hunsh,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-jarakane,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-jcyang,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-riliangg,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-smythb,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-wlla,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-xinrus1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-zchalmers,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-zebinl,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-yjjin1,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-iahossain,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-junyangl2,,,,0.0,0.0,0.0,10.0
+08_tutorial_semantic_memory,,,jupyter-bzamani,,,,0.0,0.0,0.0,10.0
+09_tutorial_network_data,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+09_tutorial_network_data,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+10_tutorial_network_structure,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-ameliaha,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-hayeso,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-jfodor,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-jsattenborou,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-lgsully,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-neverett,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-rlockett,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-stwilliams,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yimein,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-thomashn,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-zhilongl,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-siaumuns,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-ebridgeman,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-gscarce,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-wezhong,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-xueyuanl,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-grachen,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-katherinekha,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-rccapp,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-rmaritiu,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-rsseb,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-vabdulnour,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-xinyingy1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yparamullage,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-zz_test_student,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-etheresa,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-gecarroll,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-tianye,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-aurelialivia,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-caelanm,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-chongk3,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-kokabe,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-nathanl2,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yuajiang,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yunos,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-aaron1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-bingqingl,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-akluga,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-ceabry,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-mfryer,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yingting1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-zhenning,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-jlaoit,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-amandajingyi,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-dcchau,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-hunsh,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-jarakane,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-jcyang,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-qingyunl1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-riliangg,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-smythb,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-wlla,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-xinrus1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-zchalmers,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-zebinl,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-yjjin1,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-iahossain,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-junyangl2,,,,0.0,0.0,0.0,0.0
+11_tutorial_network_contagion,,,jupyter-bzamani,,,,0.0,0.0,0.0,0.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-hayeso,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 02:08:59.078756,jupyter-jfodor,,,,36.5,0.0,36.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-20 02:32:45.155639,jupyter-jsattenborou,,,,33.5,0.0,33.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-lgsully,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-neverett,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 02:04:46.484310,jupyter-rlockett,,,,39.5,0.0,39.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:55:55.008981,jupyter-stwilliams,,,,24.0,0.0,24.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-yimein,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 17:02:56.949184,jupyter-thomashn,,,,38.5,0.0,38.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-09 07:15:07.028678,jupyter-zhilongl,,,,39.0,0.0,39.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 04:54:22.936617,jupyter-ebridgeman,,,,34.5,0.0,34.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 23:33:39.945387,jupyter-gscarce,,,,35.0,0.0,35.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-wezhong,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-grachen,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 23:38:44.873120,jupyter-rccapp,,,,35.0,0.0,35.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 01:40:45.085076,jupyter-rmaritiu,,,,31.5,0.0,31.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 04:07:10.900622,jupyter-rsseb,,,,37.0,0.0,37.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-11 07:34:21.188382,jupyter-rvvidyasagar,,,,36.5,0.0,36.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:42:52.035937,jupyter-yparamullage,,,,32.0,0.0,32.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 04:58:33.163682,jupyter-ziqiazhang,,,,14.0,0.0,14.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-zz_test_student,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-etheresa,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 07:39:45.614098,jupyter-gecarroll,,,,34.75,0.0,34.75,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:24:59.204688,jupyter-tianye,,,,34.0,0.0,34.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:57:30.326600,jupyter-caelanm,,,,31.0,0.0,31.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 11:01:26.071901,jupyter-chongk3,,,,33.0,0.0,33.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-kokabe,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 08:49:18.506059,jupyter-nathanl2,,,,29.0,0.0,29.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 07:09:56.491622,jupyter-yunos,,,,28.5,0.0,28.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-aaron1,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-akluga,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 05:00:25.935031,jupyter-ceabry,,,,32.5,0.0,32.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:51:32.722943,jupyter-mfryer,,,,25.0,0.0,25.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 13:22:27.383808,jupyter-yingting1,,,,33.5,0.0,33.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:38:38.999824,jupyter-zhenning,,,,38.0,0.0,38.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 19:52:21.126418,jupyter-amandajingyi,,,,40.0,0.0,40.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 05:25:09.193926,jupyter-dcchau,,,,35.0,0.0,35.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 13:27:11.541616,jupyter-hunsh,,,,40.0,0.0,40.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 05:58:27.762565,jupyter-jarakane,,,,24.0,0.0,24.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-12 08:20:42.826421,jupyter-jcyang,,,,33.0,0.0,33.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:12:40.219739,jupyter-qingyunl1,,,,18.0,0.0,18.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:45:37.443938,jupyter-riliangg,,,,23.0,0.0,23.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:37:28.037869,jupyter-smythb,,,,1.0,0.0,1.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:11:45.814804,jupyter-tinchungcalv,,,,29.0,0.0,29.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 04:55:02.396630,jupyter-wlla,,,,31.5,0.0,31.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 02:53:47.226071,jupyter-xinrus1,,,,31.0,0.0,31.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 04:53:38.530333,jupyter-zchalmers,,,,31.5,0.0,31.5,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-13 03:20:38.450124,jupyter-zebinl,,,,34.0,0.0,34.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-15 15:19:54.148104,jupyter-yjjin1,,,,37.0,0.0,37.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-16 04:47:22.064607,jupyter-iahossain,,,,1.0,0.0,1.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,2021-08-17 21:31:56.453555,jupyter-junyangl2,,,,30.0,0.0,30.0,40.0
+02_assessment_bayesnets,2021-08-13 05:00:00,,jupyter-bzamani,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-hayeso,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-23 06:46:35.294118,jupyter-jfodor,,,,38.0,0.0,38.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 03:57:27.929217,jupyter-jsattenborou,,,,40.0,0.0,40.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-lgsully,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-neverett,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-rlockett,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 23:48:29.389860,jupyter-stwilliams,,,,40.0,0.0,40.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-yimein,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-24 19:15:40.042204,jupyter-thomashn,,,,33.5,0.0,33.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-22 06:36:59.794146,jupyter-zhilongl,,,,37.26,0.0,37.26,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:56:48.066190,jupyter-ebridgeman,,,,37.5,0.0,37.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-20 12:30:19.770775,jupyter-gscarce,,,,34.0,0.0,34.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-wezhong,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-grachen,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-25 02:38:39.065905,jupyter-rccapp,,,,38.5,0.0,38.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 21:12:32.303429,jupyter-rsseb,,,,34.0,0.0,34.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 03:12:42.767497,jupyter-rvvidyasagar,,,,39.5,0.0,39.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 03:31:52.006524,jupyter-yparamullage,,,,21.5,0.0,21.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 01:17:44.091376,jupyter-ziqiazhang,,,,34.75,0.0,34.75,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-22 10:50:58.107007,jupyter-zz_test_student,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-etheresa,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-24 02:28:47.022988,jupyter-gecarroll,,,,35.0,0.0,35.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 07:31:45.779012,jupyter-tianye,,,,39.0,0.0,39.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 01:11:03.838997,jupyter-caelanm,,,,32.5,0.0,32.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 01:51:26.697502,jupyter-chongk3,,,,39.25,0.0,39.25,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-kokabe,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 07:46:31.743248,jupyter-nathanl2,,,,26.5,0.0,26.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-23 11:24:51.631916,jupyter-yunos,,,,25.5,0.0,25.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-aaron1,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-akluga,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:36:53.388347,jupyter-ceabry,,,,40.0,0.0,40.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 03:38:37.339163,jupyter-mfryer,,,,35.75,0.0,35.75,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 06:18:14.474720,jupyter-yingting1,,,,31.0,0.0,31.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 02:09:08.513894,jupyter-zhenning,,,,34.76,0.0,34.76,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 19:11:09.601403,jupyter-amandajingyi,,,,32.0,0.0,32.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:46:59.964267,jupyter-dcchau,,,,29.5,0.0,29.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 13:33:00.457586,jupyter-hunsh,,,,35.03,0.0,35.03,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 05:20:16.295854,jupyter-jarakane,,,,27.0,0.0,27.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:44:00.570489,jupyter-jcyang,,,,37.0,0.0,37.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:03:52.767371,jupyter-qingyunl1,,,,22.5,0.0,22.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-29 18:03:32.634168,jupyter-riliangg,,,,24.5,0.0,24.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-smythb,,,,0.0,0.0,0.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-26 11:03:00.950730,jupyter-tinchungcalv,,,,39.75,0.0,39.75,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:26:02.500172,jupyter-wlla,,,,36.0,0.0,36.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-30 04:59:58.334012,jupyter-xinrus1,,,,14.0,0.0,14.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 04:52:00.170093,jupyter-zchalmers,,,,39.5,0.0,39.5,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-27 03:40:13.031398,jupyter-zebinl,,,,36.76,0.0,36.76,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-30 04:56:10.726020,jupyter-yjjin1,,,,33.0,0.0,33.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-30 01:31:21.277104,jupyter-iahossain,,,,40.0,0.0,40.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,2021-08-31 07:43:23.295631,jupyter-junyangl2,,,,27.0,0.0,27.0,40.0
+04_assessment_categorization,2021-08-27 05:00:00,,jupyter-bzamani,,,,0.0,0.0,0.0,40.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-hayeso,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-jfodor,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-jsattenborou,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-lgsully,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-neverett,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-rlockett,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-stwilliams,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yimein,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-thomashn,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-zhilongl,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-ebridgeman,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-gscarce,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-wezhong,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-grachen,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-rccapp,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-rsseb,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-rvvidyasagar,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yparamullage,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-ziqiazhang,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-zz_test_student,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-etheresa,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-gecarroll,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-tianye,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-caelanm,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-chongk3,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-kokabe,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-nathanl2,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yunos,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-aaron1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-akluga,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-ceabry,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-mfryer,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yingting1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-zhenning,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-amandajingyi,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-dcchau,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-hunsh,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-jarakane,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-jcyang,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-qingyunl1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-riliangg,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-smythb,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-tinchungcalv,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-wlla,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-xinrus1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-zchalmers,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-zebinl,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-yjjin1,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-iahossain,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-junyangl2,,,,0.0,0.0,0.0,11.0
+05_assessment_connectionism,2021-09-10 17:00:00,,jupyter-bzamani,,,,0.0,0.0,0.0,11.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-hayeso,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-06 06:26:15.571044,jupyter-jfodor,,,,9.0,0.0,9.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 04:58:20.113099,jupyter-jsattenborou,,,,9.5,0.0,9.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-lgsully,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-neverett,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-rlockett,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 03:31:29.065988,jupyter-stwilliams,,,,8.75,0.0,8.75,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-yimein,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-08 11:47:27.428563,jupyter-thomashn,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 09:35:11.605400,jupyter-zhilongl,,,,8.0,0.0,8.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 03:23:48.119972,jupyter-ebridgeman,,,,7.5,0.0,7.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 12:57:29.111864,jupyter-gscarce,,,,9.5,0.0,9.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-wezhong,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-grachen,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 04:54:45.925376,jupyter-rccapp,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-08 13:39:02.182930,jupyter-rsseb,,,,8.0,0.0,8.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 08:40:45.783422,jupyter-rvvidyasagar,,,,9.5,0.0,9.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 01:29:18.008050,jupyter-yparamullage,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 18:11:54.437606,jupyter-ziqiazhang,,,,8.0,0.0,8.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-10-04 02:07:39.829008,jupyter-zz_test_student,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-etheresa,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-07 09:50:52.863972,jupyter-gecarroll,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 05:11:58.270773,jupyter-tianye,,,,9.5,0.0,9.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 00:25:22.140187,jupyter-caelanm,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 03:55:55.541674,jupyter-chongk3,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-kokabe,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 02:06:47.625868,jupyter-nathanl2,,,,5.0,0.0,5.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 09:24:27.431245,jupyter-yunos,,,,2.0,0.0,2.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-aaron1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-akluga,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 04:55:33.030778,jupyter-ceabry,,,,9.25,0.0,9.25,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 23:33:36.036290,jupyter-mfryer,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-yingting1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 00:59:59.194568,jupyter-zhenning,,,,8.0,0.0,8.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 20:53:45.141338,jupyter-amandajingyi,,,,6.5,0.0,6.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 04:58:20.381779,jupyter-dcchau,,,,6.0,0.0,6.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 13:39:09.266261,jupyter-hunsh,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 11:04:37.105060,jupyter-jarakane,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 22:37:43.641923,jupyter-jcyang,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-17 06:04:21.626435,jupyter-qingyunl1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 03:57:50.937329,jupyter-riliangg,,,,3.0,0.0,3.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-smythb,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 01:26:35.090585,jupyter-tinchungcalv,,,,9.0,0.0,9.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 14:40:14.901777,jupyter-wlla,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 13:20:08.871589,jupyter-xinrus1,,,,7.5,0.0,7.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 03:20:35.836068,jupyter-zchalmers,,,,8.5,0.0,8.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-09 10:44:19.392538,jupyter-zebinl,,,,7.5,0.0,7.5,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,,jupyter-yjjin1,,,,0.0,0.0,0.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-10 00:44:42.538035,jupyter-iahossain,,,,10.0,0.0,10.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-16 04:53:04.587087,jupyter-junyangl2,,,,3.0,0.0,3.0,10.0
+06_assessment_connectionism_2,2021-09-10 23:59:00,2021-09-12 12:31:50.270555,jupyter-bzamani,,,,4.5,0.0,4.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-hayeso,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-21 01:48:01.603332,jupyter-jfodor,,,,10.0,0.0,10.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:54:29.873601,jupyter-jsattenborou,,,,10.0,0.0,10.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-lgsully,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-neverett,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-rlockett,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-23 23:19:54.532376,jupyter-stwilliams,,,,10.0,0.0,10.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-yimein,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-23 14:54:28.810475,jupyter-thomashn,,,,6.85,0.0,6.85,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 11:28:17.054740,jupyter-zhilongl,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:58:14.917857,jupyter-ebridgeman,,,,9.75,0.0,9.75,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 02:41:26.725565,jupyter-gscarce,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-wezhong,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-grachen,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 02:15:17.994881,jupyter-rccapp,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:49:50.640492,jupyter-rsseb,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 03:22:36.339168,jupyter-rvvidyasagar,,,,10.0,0.0,10.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:30:54.600986,jupyter-yparamullage,,,,8.5,0.0,8.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:56:59.872401,jupyter-ziqiazhang,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-zz_test_student,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-etheresa,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-22 03:56:17.320381,jupyter-gecarroll,,,,9.75,0.0,9.75,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 00:35:49.761901,jupyter-tianye,,,,9.0,0.0,9.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:00:07.041994,jupyter-caelanm,,,,9.25,0.0,9.25,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:54:46.708967,jupyter-chongk3,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-kokabe,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-23 02:42:16.778865,jupyter-nathanl2,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-29 07:09:36.516820,jupyter-yunos,,,,6.5,0.0,6.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-aaron1,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-akluga,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 05:00:14.033853,jupyter-ceabry,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 03:29:45.406181,jupyter-mfryer,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-22 11:33:06.305037,jupyter-yingting1,,,,7.0,0.0,7.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 01:24:38.666693,jupyter-zhenning,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:58:58.781210,jupyter-amandajingyi,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-29 12:45:47.167441,jupyter-dcchau,,,,6.85,0.0,6.85,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-29 04:57:21.483316,jupyter-hunsh,,,,8.0,0.0,8.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-23 08:06:39.393541,jupyter-jarakane,,,,7.4,0.0,7.4,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 03:53:47.627882,jupyter-jcyang,,,,10.0,0.0,10.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-17 06:04:17.816701,jupyter-qingyunl1,,,,6.3,0.0,6.3,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:46:18.380341,jupyter-riliangg,,,,5.7,0.0,5.7,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,,jupyter-smythb,,,,0.0,0.0,0.0,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-21 04:50:42.608948,jupyter-tinchungcalv,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:16:50.007739,jupyter-wlla,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:59:54.316382,jupyter-xinrus1,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:48:15.910700,jupyter-zchalmers,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 04:28:59.088615,jupyter-zebinl,,,,6.5,0.0,6.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-29 04:41:33.604334,jupyter-yjjin1,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-30 03:28:32.483592,jupyter-iahossain,,,,9.5,0.0,9.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-24 09:40:47.981818,jupyter-junyangl2,,,,7.5,0.0,7.5,10.0
+08_assignment_semantic_memory,2021-09-24 23:59:00,2021-09-26 00:56:16.692368,jupyter-bzamani,,,,0.0,0.0,0.0,10.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-hayeso,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-12 07:38:27.488217,jupyter-jfodor,,,,29.0,0.0,29.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 11:08:38.256314,jupyter-jsattenborou,,,,30.5,0.0,30.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-lgsully,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-neverett,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-rlockett,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 23:34:49.509845,jupyter-stwilliams,,,,29.5,0.0,29.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-yimein,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 16:35:09.505323,jupyter-thomashn,,,,30.0,0.0,30.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 13:00:50.662779,jupyter-zhilongl,,,,27.5,0.0,27.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-18 03:59:39.387143,jupyter-ebridgeman,,,,29.5,0.0,29.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 13:41:19.339660,jupyter-gscarce,,,,26.0,0.0,26.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-wezhong,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-grachen,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 02:33:08.032785,jupyter-rccapp,,,,32.0,0.0,32.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 09:02:53.727431,jupyter-rsseb,,,,28.0,0.0,28.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 01:35:36.547915,jupyter-rvvidyasagar,,,,27.5,0.0,27.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 02:45:55.886253,jupyter-yparamullage,,,,13.0,0.0,13.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 03:50:06.194645,jupyter-ziqiazhang,,,,19.5,0.0,19.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-zz_test_student,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-etheresa,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 10:34:10.175896,jupyter-gecarroll,,,,26.0,0.0,26.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 02:17:11.019820,jupyter-tianye,,,,25.0,0.0,25.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-20 00:47:17.007879,jupyter-caelanm,,,,26.5,0.0,26.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 13:54:53.245544,jupyter-chongk3,,,,22.5,0.0,22.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-kokabe,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 08:37:52.194473,jupyter-nathanl2,,,,17.0,0.0,17.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 13:53:00.963877,jupyter-yunos,,,,13.0,0.0,13.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-aaron1,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-akluga,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 03:40:27.502349,jupyter-ceabry,,,,29.25,0.0,29.25,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-mfryer,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 20:57:41.190634,jupyter-yingting1,,,,24.5,0.0,24.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 01:59:34.403285,jupyter-zhenning,,,,22.5,0.0,22.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 21:25:29.224178,jupyter-amandajingyi,,,,30.5,0.0,30.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-dcchau,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 04:18:20.275346,jupyter-hunsh,,,,30.0,0.0,30.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-14 09:45:54.492969,jupyter-jarakane,,,,5.0,0.0,5.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 10:15:01.587298,jupyter-jcyang,,,,24.5,0.0,24.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 01:43:50.249716,jupyter-qingyunl1,,,,3.5,0.0,3.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-riliangg,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-smythb,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 01:04:11.625789,jupyter-tinchungcalv,,,,15.0,0.0,15.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 01:07:19.499981,jupyter-wlla,,,,27.0,0.0,27.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-18 03:59:08.125141,jupyter-xinrus1,,,,9.5,0.0,9.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 03:51:14.570318,jupyter-zchalmers,,,,20.5,0.0,20.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-15 03:56:28.930232,jupyter-zebinl,,,,13.5,0.0,13.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,,jupyter-yjjin1,,,,0.0,0.0,0.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-24 19:58:12.697852,jupyter-iahossain,,,,31.0,0.0,31.0,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-22 02:12:21.331582,jupyter-junyangl2,,,,19.5,0.0,19.5,32.0
+10_assessment_network_structure,2021-10-15 15:10:00,2021-10-16 06:26:07.463800,jupyter-bzamani,,,,27.0,0.0,27.0,32.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-ameliaha,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-hayeso,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-23 05:11:54.223283,jupyter-jfodor,,,,38.5,0.0,38.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-29 04:46:13.099948,jupyter-jsattenborou,,,,39.5,0.0,39.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-lgsully,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-neverett,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-rlockett,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-skyriakopoul,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-26 23:49:45.860041,jupyter-stwilliams,,,,38.5,0.0,38.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-yimein,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 20:58:28.696006,jupyter-thomashn,,,,30.5,0.0,30.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 13:19:54.252485,jupyter-zhilongl,,,,30.5,0.0,30.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-siaumuns,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 04:12:43.135226,jupyter-ebridgeman,,,,35.0,0.0,35.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 13:14:31.467290,jupyter-gscarce,,,,29.0,0.0,29.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-wezhong,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-xueyuanl,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-grachen,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-katherinekha,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-29 02:36:36.096951,jupyter-rccapp,,,,40.5,0.0,40.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-rmaritiu,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 14:49:08.050246,jupyter-rsseb,,,,37.5,0.0,37.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-30 01:49:40.681920,jupyter-rvvidyasagar,,,,41.5,0.0,41.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-vabdulnour,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-xinyingy1,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 23:57:08.942414,jupyter-yparamullage,,,,3.0,0.0,3.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 01:42:06.396444,jupyter-ziqiazhang,,,,22.0,0.0,22.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-zz_test_student,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-etheresa,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-26 08:30:14.047610,jupyter-gecarroll,,,,36.25,0.0,36.25,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 23:46:12.942014,jupyter-tianye,,,,36.5,0.0,36.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-aurelialivia,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 03:30:53.084474,jupyter-caelanm,,,,33.25,0.0,33.25,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 01:11:27.994675,jupyter-chongk3,,,,24.0,0.0,24.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-kokabe,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-ssugiauwto,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-29 04:49:48.872771,jupyter-nathanl2,,,,23.0,0.0,23.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-yuajiang,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-28 08:18:42.272243,jupyter-yunos,,,,28.0,0.0,28.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-aaron1,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-bingqingl,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-akluga,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 07:37:38.094243,jupyter-ceabry,,,,38.75,0.0,38.75,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-mfryer,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-29 16:01:45.770511,jupyter-yingting1,,,,35.25,0.0,35.25,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-30 08:51:11.956593,jupyter-zhenning,,,,34.0,0.0,34.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-jlaoit,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-lisatiengaik,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 15:27:51.660985,jupyter-amandajingyi,,,,37.5,0.0,37.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-dcchau,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 08:29:17.504983,jupyter-hunsh,,,,32.5,0.0,32.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 12:54:43.777712,jupyter-jarakane,,,,11.5,0.0,11.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 12:32:23.526238,jupyter-jcyang,,,,31.5,0.0,31.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 03:53:25.225218,jupyter-qingyunl1,,,,3.5,0.0,3.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 09:47:46.364817,jupyter-riliangg,,,,17.5,0.0,17.5,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-smythb,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-26 09:13:53.353383,jupyter-tinchungcalv,,,,28.0,0.0,28.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 12:29:03.468446,jupyter-wlla,,,,34.0,0.0,34.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 03:59:43.653115,jupyter-xinrus1,,,,15.0,0.0,15.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-29 03:37:39.111824,jupyter-zchalmers,,,,20.0,0.0,20.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-01 03:32:10.213044,jupyter-zebinl,,,,29.0,0.0,29.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-yjjin1,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,,jupyter-iahossain,,,,0.0,0.0,0.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-11-14 10:15:12.548746,jupyter-junyangl2,,,,19.0,0.0,19.0,44.0
+12_assessment_network_contagion,2021-11-01 15:13:00,2021-10-31 03:18:11.398270,jupyter-bzamani,,,,30.0,0.0,30.0,44.0
